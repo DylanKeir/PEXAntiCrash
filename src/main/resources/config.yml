@@ -1,0 +1,5 @@
+# Default PermissionsEx message.
+deny-message: "&cSorry, you don't have enough permissions."
+
+# Permission to bypass.
+bypass-permission: "pexanticrash.bypass"

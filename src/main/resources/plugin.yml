@@ -1,0 +1,5 @@
+name: PEXAntiCrash
+main: eu.dyl4n.pexanticrash.PEXAntiCrash
+version: 1.0
+author: JiNJaProductionz | Dylan Keir
+description: A simple solution to the PermissionsEx crash exploit!
